@@ -4,7 +4,7 @@
 - It demonstrates a proof of concept using ASCII math, it does not use a secure encryption protocol.
 - My teammate and I built a sample use case of logging in an then connecting to an API with Libcurl to translate a word.
 ## Languages/Technologies
-- C, Libcurl,
+- C, Libcurl
 - RapidAPI
 ## Notes for further development
 - Modify the login and authorization system so it can be included as a header file in other programs.
