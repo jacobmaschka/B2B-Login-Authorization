@@ -7,5 +7,4 @@
 - C, Libcurl
 - RapidAPI
 ## Notes for further development
-- Modify the login and authorization system so it can be included as a header file in other programs.
-- Fix the memory leak bug. It is likely to be within the code sourced from the internet for working with the APIs.
+- Fix the memory leak bug. It is likely to be within the Libcurl code for working with the API.
