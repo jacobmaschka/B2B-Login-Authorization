@@ -1,4 +1,4 @@
-# B2B Login & Authorization System
+# Login & Authorization System
 ## Overview
 - This project was developed in Spring 2024 for CS366 - Systems Programming.
 - It demonstrates a proof of concept using ASCII math, it does not use a secure encryption protocol.
